@@ -1,8 +1,9 @@
-<!-- Glitchy ASCII Header -->
+<!-- Header -->
 <h1 align="center">⚡ Aman Kumar ⚡</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Full+Stack+MERN+Developer;AI+%26+ML+Enthusiast;C+%2F+Java+%2F+Python+Coder;Cyber+Security+Club+Member" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=36BCF7FF&background=FFFFFF00&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Full+Stack+MERN+Developer+%F0%9F%9A%80;AI+%26+ML+Enthusiast+%F0%9F%92%BB;DSA+in+Java+%F0%9F%93%9A;Cybernix+Tech+Club+Member+%E2%9C%A8;Let's+Connect+and+Code+Together!+%F0%9F%A4%9D" alt="Typing SVG" />
 </p>
+
 
 ---
 
@@ -30,7 +31,9 @@
 </p>  
 
 ---
-
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="600" alt="Phonk Vibe" />
+</div>
 
 
 ---
@@ -45,3 +48,7 @@ _"Code. Break. Create. Repeat."_
   <a href="https://www.linkedin.com/in/aman-kumar-039677331/"><img src="https://img.shields.io/badge/-LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="amananshukumarpurnea@gmail.com"><img src="https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
+---
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" width="100%"/>
+</div>
