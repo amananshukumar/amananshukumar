@@ -25,10 +25,35 @@
    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,java,python,c,js,mysql,html,css,git,github&perline=6" />  
   <br><br>  
 
-  - **Frontend** – HTML, CSS, JS, React <br>  
-  - **Backend** – Node.js, Express <br>  
-  - **Database** – MongoDB, MySQL <br>  
-  - **Languages** – Java, Python, C  
+ - **Frontend** –  
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="65" height="65" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" alt="CSS3" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" style="margin: 0 15px;" />
+ <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" style="margin: 0 15px;" />
+</div>
+<br>  
+ - **Backend** –  
+<div align="center">  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="65" height="65" style="margin: 0 15px;" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="65" height="65" style="margin: 0 15px;" />  
+</div>  
+<br>
+
+<br>  
+ - **Database** –  
+<div align="center">  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="65" height="65" alt="MongoDB" style="margin: 0 15px;" />  
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" style="margin: 0 15px;" />  
+</div>  
+<br>
+ 
+  - **Languages** –  
+<div align="center">  
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" style="margin: 0 15px;" />  
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" style="margin: 0 15px;" />  
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" style="margin: 0 15px;" />  
+</div>
 
   <br>  
 
