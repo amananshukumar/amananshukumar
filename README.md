@@ -40,6 +40,7 @@
  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" style="margin: 0 15px;" />
 </div>
 <br>  
+
  - **Backend** –  
 <div align="center">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="65" height="65" style="margin: 0 15px;" />  
@@ -48,6 +49,7 @@
 <br>
 
 <br>  
+
  - **Database** –  
 <div align="center">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="65" height="65" alt="MongoDB" style="margin: 0 15px;" />  
